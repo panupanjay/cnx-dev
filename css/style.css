@@ -1,0 +1,10 @@
+.bg-navbar{
+    background-color: lightcyan;
+}
+
+.a-nav{
+    color: darkblue !important;
+    text-decoration: none !important;
+    font-size: 28px;
+    font-weight : bold;
+}
